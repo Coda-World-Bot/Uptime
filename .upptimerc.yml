@@ -1,37 +1,47 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: Coda-World-Bot # Your GitHub username
+repo: Uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Coda World
+    url: https://coda.world
+  - name: Generate 204 API
+    url: https://coda.world/generate_204
+  - name: Search API
+    url: https://coda.world/$SEARCH_API
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: uptime.coda.world
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://coda.world/favicon.ico
+  name: Coda World Uptime
+  # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: Status
+    - title: Home
+      href: https://coda.world
+    - title: Archive
+      href: https://coda.world/archives/
+    - title: About
+      href: https://coda.world/about/
+    - title: Uptime
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+
+i18n:
+  footer: Based on *Upptime*, powered by *GitHub Actions*
+
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
+
+user-agent: $OWNER
+
+commitMessages:
+  commitAuthorName: "Coda World Bot"
+  commitAuthorEmail: "76939303+Coda-World-Bot@users.noreply.github.com"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
