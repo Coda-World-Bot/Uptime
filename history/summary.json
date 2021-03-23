@@ -40,17 +40,17 @@
     "url": "https://coda.world/$SEARCH_API",
     "icon": "https://favicons.githubusercontent.com/coda.world",
     "slug": "search-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 441,
-    "timeDay": 658,
-    "timeWeek": 490,
-    "timeMonth": 410,
-    "timeYear": 441,
+    "time": 444,
+    "timeDay": 646,
+    "timeWeek": 508,
+    "timeMonth": 418,
+    "timeYear": 444,
     "dailyMinutesDown": {}
   }
 ]
