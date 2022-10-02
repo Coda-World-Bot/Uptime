@@ -2,7 +2,7 @@
   {
     "name": "Coda World",
     "url": "https://coda.world",
-    "icon": "https://favicons.githubusercontent.com/coda.world",
+    "icon": "https://icons.duckduckgo.com/ip3/coda.world.ico",
     "slug": "coda-world",
     "status": "up",
     "uptime": "100.00%",
@@ -10,17 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 196,
-    "timeDay": 99,
-    "timeWeek": 212,
-    "timeMonth": 211,
-    "timeYear": 203,
+    "time": 195,
+    "timeDay": 158,
+    "timeWeek": 200,
+    "timeMonth": 208,
+    "timeYear": 204,
     "dailyMinutesDown": {}
   },
   {
     "name": "Generate 204 API",
     "url": "https://coda.world/generate_204",
-    "icon": "https://favicons.githubusercontent.com/coda.world",
+    "icon": "https://icons.duckduckgo.com/ip3/coda.world.ico",
     "slug": "generate-204-api",
     "status": "up",
     "uptime": "100.00%",
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 18,
     "timeDay": 19,
-    "timeWeek": 14,
+    "timeWeek": 15,
     "timeMonth": 17,
     "timeYear": 18,
     "dailyMinutesDown": {}
@@ -38,7 +38,7 @@
   {
     "name": "Search API",
     "url": "https://coda.world/$SEARCH_API",
-    "icon": "https://favicons.githubusercontent.com/coda.world",
+    "icon": "https://icons.duckduckgo.com/ip3/coda.world.ico",
     "slug": "search-api",
     "status": "up",
     "uptime": "100.00%",
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 473,
-    "timeDay": 491,
-    "timeWeek": 320,
-    "timeMonth": 297,
-    "timeYear": 473,
+    "time": 472,
+    "timeDay": 181,
+    "timeWeek": 299,
+    "timeMonth": 292,
+    "timeYear": 472,
     "dailyMinutesDown": {}
   }
 ]
