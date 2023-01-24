@@ -36,5 +36,6 @@ jobs:
         with:
           github_token: ${{ secrets.GH_PAT }}
           publish_dir: "site/status-page/__sapper__/export/"
+          force_orphan: "false"
           user_name: "Coda World Bot"
           user_email: "76939303+Coda-World-Bot@users.noreply.github.com"
